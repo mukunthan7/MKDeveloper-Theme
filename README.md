@@ -1,14 +1,16 @@
-# README
-## This is the README for your extension "mkdeveloper-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
 # MKDeveloper-Theme
+MKDeveloper theme is a dark material-like theme with blue tones.
+## Installation
+ 1. Open Extensions on the sidebar
+ 2. Search for "**MKDeveloper-Theme**"
+ 3. Install it
+ 4. Reload the editor
+ # Mac
+ 5. Press ⌘K + ⌘T
+ # Windows and Linux
+ 6. Press Ctrl K+Ctrl T
+ 7. Pick "**MKDeveloper-Theme**" one from the list and hit enter
+ 8. Enjoy!
+ ## ScreenShot
+ ![MKDeveloper-Theme](images/MKdeveloper-Theme.png)
+ 
