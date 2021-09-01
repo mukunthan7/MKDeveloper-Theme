@@ -12,5 +12,7 @@ MKDeveloper theme is a dark material-like theme with blue tones.
  7. Pick "**MKDeveloper-Theme**" one from the list and hit enter
  8. Enjoy!
  ## ScreenShot
- ![MKDeveloper-Theme](images/MKdeveloper-Theme.png)
- 
+ ![MKDeveloper-Theme](https://github.com/mukunthan7/MKDeveloper-Theme/blob/main/images/MKdeveloper-Theme.png?raw=true)
+
+### Issues
+Report to: [https://github.com/mukunthan7/MKDeveloper-Theme/issues](https://github.com/mukunthan7/MKDeveloper-Theme/issues)
