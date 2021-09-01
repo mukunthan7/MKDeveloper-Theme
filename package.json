@@ -1,0 +1,27 @@
+{
+    "name": "mkdeveloper-theme",
+    "displayName": "MKDeveloper-Theme",
+    "description": "Super-Developer",
+    "version": "0.0.1",
+    "publisher": "mukunthan",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "vscode",
+        "theme",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MKDeveloper-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MKDeveloper-Theme-color-theme.json"
+            }
+        ]
+    }
+}
